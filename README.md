@@ -22,4 +22,4 @@ https://parsec.app
 
 
 # Play State Syncing
-Play state syncing is important in order to have all participants muted when the DAW is playing and unmuted back again when the DAW playback is stopped. 
+Play state syncing is important in order to have all participants muted when the DAW is playing and unmuted back again when the DAW playback is stopped. This also enables participants to use speakers, as opposed to being forced to use headphones only. 
