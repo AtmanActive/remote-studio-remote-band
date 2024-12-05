@@ -15,11 +15,12 @@ https://sonobus.net
 
 # Screen Sharing
 
-https://parsec.app
+- https://parsec.app
+- https://pin.gl
 
 # Remote Recording
 
-
+- [ReaConnect](https://github.com/AtmanActive/ReaConnect)
 
 # Play State Syncing
 Play state syncing is important in order to have all participants muted when the DAW is playing and unmuted back again when the DAW playback is stopped. This also enables participants to use speakers, as opposed to being forced to use headphones only. Also, this is very important when doing recording, as you would want to hear the vocal sound or instrument sound from the DAW, not from the communications microphone.
