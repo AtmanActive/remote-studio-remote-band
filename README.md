@@ -29,6 +29,12 @@ Play state syncing is important in order to have all participants muted when the
 A Web-browser-based solution which enables all participants to distribute MIDI messages to each other
 - [AtmanActive's WebMIDI WebRTC](atmanactive.github.io/webmidi-rtc-transport/)
 
+## MIDI cable and/or routing
+A MIDI cable app is necessary in order to link up several programs into one MIDI chain
+- Windows: [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html)
+- Windows: [Bome Network](https://www.bome.com/products/bomenet)
+- Windows: [LoopBe1](https://nerds.de/en/loopbe1.html)
+- Windows: [Springbeats Virtual MIDI](https://springbeats.com/sbvmidi/)
 
 ## Mute microphone on MIDI
 A local program that would react to incoming MIDI messages and mute the designated microphone.
