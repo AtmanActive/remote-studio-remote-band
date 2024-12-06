@@ -40,7 +40,7 @@ A MIDI cable app is necessary in order to link up several programs into one MIDI
 A local program that would react to incoming MIDI messages and mute the designated microphone.
 
 ### For Windows
-On windows, all [DAWs](https://en.wikipedia.org/wiki/Digital_audio_workstation) use [ASIO](https://en.wikipedia.org/wiki/Audio_Stream_Input/Output), which is fully independent of windows audio, hence if we mute the microphone, it will only be muted for communications while it will still be able to be recorded in a DAW.
+On windows, all [DAWs](https://en.wikipedia.org/wiki/Digital_audio_workstation) use [ASIO](https://en.wikipedia.org/wiki/Audio_Stream_Input/Output), which is fully independent of windows audio, hence if we mute the microphone, it will only be muted for communications while it will still be able to be recorded in the DAW.
 - [AtmanActive's MIDI-Transport-to-Mute](https://github.com/AtmanActive/MIDI-Transport-to-Mute)
 
 ### For MacOS
